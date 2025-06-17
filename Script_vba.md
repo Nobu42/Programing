@@ -81,10 +81,11 @@ Function RecursiveSearch(folder As Object, fileName As String, excludePaths As V
     RecursiveSearch = ""
 End Function
 
+```
 
 # 使い方
 
-'''
+
 Excelで Alt + F11 → 標準モジュールへ貼り付け
 Alt + F8 → SearchFilesAndInsertPaths を実行
 結果は B列に反映されます
